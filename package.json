@@ -1,0 +1,24 @@
+{
+  "name": "zedulearn-app",
+  "version": "1.0.0",
+  "description": "A learning platform for ZEDULEARN",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.0.6",
+    "react": "17.0.1",
+    "react-native": "^0.76.6"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "latest",
+    "jest": "^27.0.6"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
